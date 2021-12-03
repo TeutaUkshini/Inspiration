@@ -1,4 +1,4 @@
 # Inspiration
 
 ## npm install or  yarn install
-### npm run serve
+### npm run serve or yarn run serve
