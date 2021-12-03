@@ -1,4 +1,4 @@
-# photography
+# Inspiration
 
 ## Project setup
 ```
